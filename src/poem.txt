@@ -52,5 +52,6 @@ to let it go.
 Source: "American Primitive: Poems" by Mary Oliver, published by Back Bay Books, 1983
 =======
 "and" counter: 5
+"of" counter: 3
 =======
 * Goodluck sa acads po :)
